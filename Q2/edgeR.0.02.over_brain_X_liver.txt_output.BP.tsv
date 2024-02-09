@@ -1,0 +1,132 @@
+GOBPID	Pvalue	OddsRatio	ExpCount	Count	Size	Term
+GO:0060322	3e-28	19.81	2.77	34	618	head development
+GO:0007417	9e-16	12.89	2.38	22	629	central nervous system development
+GO:0006355	9e-14	5.23	13.76	44	3072	regulation of transcription, DNA-templated
+GO:2001141	1e-13	5.19	13.86	44	3093	regulation of RNA biosynthetic process
+GO:0021543	2e-12	22.7	0.65	12	146	pallium development
+GO:0050767	8e-12	7.76	3.65	22	815	regulation of neurogenesis
+GO:0034654	1e-11	4.4	15.88	44	3544	nucleobase-containing compound biosynthetic process
+GO:0019219	2e-11	4.37	15.99	44	3569	regulation of nucleobase-containing compound metabolic process
+GO:0045944	4e-11	6.48	4.82	24	1076	positive regulation of transcription from RNA polymerase II promoter
+GO:0032502	4e-11	4.58	18.73	46	4737	developmental process
+GO:0022008	1e-10	8.59	2.76	18	774	neurogenesis
+GO:1903508	2e-10	5.6	6.11	26	1364	positive regulation of nucleic acid-templated transcription
+GO:0001764	2e-10	17.75	0.74	11	166	neuron migration
+GO:0021983	3e-10	54.17	0.17	7	38	pituitary gland development
+GO:0051254	4e-10	5.34	6.39	26	1426	positive regulation of RNA metabolic process
+GO:0032501	5e-10	3.78	34.43	64	7684	multicellular organismal process
+GO:0007275	5e-10	5.59	8.1	28	2427	multicellular organism development
+GO:1901576	2e-09	3.55	23.04	50	5143	organic substance biosynthetic process
+GO:0010628	4e-09	4.61	7.66	27	1710	positive regulation of gene expression
+GO:0009889	4e-09	4.6	9.11	29	2342	regulation of biosynthetic process
+GO:0090304	5e-09	3.53	19.64	45	4383	nucleic acid metabolic process
+GO:0010557	5e-09	4.67	7.21	26	1610	positive regulation of macromolecule biosynthetic process
+GO:0034645	6e-09	4.27	11.14	32	2850	cellular macromolecule biosynthetic process
+GO:0021879	7e-09	33.18	0.26	7	60	forebrain neuron differentiation
+GO:0060255	9e-09	3.36	24.01	50	5359	regulation of macromolecule metabolic process
+GO:0021798	1e-08	309.51	0.03	4	7	forebrain dorsal/ventral pattern formation
+GO:2000026	2e-08	4.23	8.29	27	1851	regulation of multicellular organismal development
+GO:0031328	3e-08	4.29	7.79	26	1739	positive regulation of cellular biosynthetic process
+GO:0060041	3e-08	14.95	0.7	9	156	retina development in camera-type eye
+GO:0051173	4e-08	4.19	7.97	26	1778	positive regulation of nitrogen compound metabolic process
+GO:0021772	4e-08	37.43	0.2	6	44	olfactory bulb development
+GO:0045595	7e-08	4.19	7.59	25	1693	regulation of cell differentiation
+GO:0090596	7e-08	9.84	1.29	11	289	sensory organ morphogenesis
+GO:0001654	1e-07	8.43	1.65	12	369	eye development
+GO:0048664	1e-07	132.62	0.05	4	11	neuron fate determination
+GO:0051961	1e-07	9.11	1.39	11	311	negative regulation of nervous system development
+GO:0048513	2e-07	3.57	12.06	31	3075	animal organ development
+GO:0051962	2e-07	6.43	2.54	14	568	positive regulation of nervous system development
+GO:0034641	4e-07	2.91	25.05	48	5590	cellular nitrogen compound metabolic process
+GO:0022037	4e-07	17.44	0.46	7	103	metencephalon development
+GO:0048665	4e-07	40.43	0.15	5	34	neuron fate specification
+GO:0046483	4e-07	2.93	22.65	45	5056	heterocycle metabolic process
+GO:0000904	4e-07	5.67	3.11	15	693	cell morphogenesis involved in differentiation
+GO:0021537	4e-07	24.35	0.29	6	76	telencephalon development
+GO:0045165	5e-07	13.23	0.7	8	182	cell fate commitment
+GO:0048858	5e-07	6.02	2.71	14	605	cell projection morphogenesis
+GO:1901360	6e-07	2.88	23.69	46	5288	organic cyclic compound metabolic process
+GO:0006725	6e-07	2.88	22.91	45	5113	cellular aromatic compound metabolic process
+GO:0031175	6e-07	4.88	4.13	17	922	neuron projection development
+GO:0045665	8e-07	10.14	1.01	9	225	negative regulation of neuron differentiation
+GO:0021779	9e-07	344.35	0.02	3	5	oligodendrocyte cell fate commitment
+GO:0021780	9e-07	344.35	0.02	3	5	glial cell fate specification
+GO:0021854	1e-06	66.29	0.08	4	18	hypothalamus development
+GO:0010720	2e-06	5.85	2.56	13	571	positive regulation of cell development
+GO:0007411	2e-06	11.08	0.82	8	182	axon guidance
+GO:0045666	2e-06	6.92	1.81	11	404	positive regulation of neuron differentiation
+GO:0021954	2e-06	18.44	0.37	6	83	central nervous system neuron development
+GO:0021978	3e-06	178.04	0.03	3	7	telencephalon regionalization
+GO:0021511	6e-06	40.33	0.12	4	27	spinal cord patterning
+GO:0021695	6e-06	22.09	0.26	5	58	cerebellar cortex development
+GO:2000177	6e-06	14.93	0.45	6	101	regulation of neural precursor cell proliferation
+GO:0021796	7e-06	114.76	0.04	3	9	cerebral cortex regionalization
+GO:0044708	9e-06	5.87	2.12	11	473	single-organism behavior
+GO:0048562	1e-05	7.32	1.38	9	307	embryonic organ morphogenesis
+GO:0030855	1e-05	5.24	2.6	12	580	epithelial cell differentiation
+GO:0021846	1e-05	31.98	0.15	4	33	cell proliferation in forebrain
+GO:0035881	1e-05	86.06	0.05	3	11	amacrine cell differentiation
+GO:0032989	2e-05	3.95	4.7	16	1049	cellular component morphogenesis
+GO:0010721	2e-05	6.81	1.47	9	329	negative regulation of cell development
+GO:0021885	2e-05	17.47	0.32	5	72	forebrain cell migration
+GO:0048708	2e-05	17.47	0.32	5	72	astrocyte differentiation
+GO:0048666	2e-05	12.26	0.55	6	145	neuron development
+GO:0050789	2e-05	2.55	48.08	68	10730	regulation of biological process
+GO:0003326	2e-05	Inf	0.01	2	2	pancreatic A cell fate commitment
+GO:0003329	2e-05	Inf	0.01	2	2	pancreatic PP cell fate commitment
+GO:0070593	2e-05	Inf	0.01	2	2	dendrite self-avoidance
+GO:0010629	2e-05	3.32	7.15	20	1595	negative regulation of gene expression
+GO:0045685	2e-05	16.25	0.35	5	77	regulation of glial cell differentiation
+GO:0048593	3e-05	11.42	0.58	6	130	camera-type eye morphogenesis
+GO:0021522	3e-05	25.75	0.18	4	40	spinal cord motor neuron differentiation
+GO:0021527	3e-05	62.58	0.06	3	14	spinal cord association neuron differentiation
+GO:0072091	3e-05	15.19	0.37	5	82	regulation of stem cell proliferation
+GO:0010001	4e-05	14.87	0.37	5	90	glial cell differentiation
+GO:0030182	4e-05	14.91	0.38	5	123	neuron differentiation
+GO:0060579	5e-05	52.95	0.07	3	16	ventral spinal cord interneuron fate commitment
+GO:0048646	5e-05	3.73	4.6	15	1027	anatomical structure formation involved in morphogenesis
+GO:0048869	5e-05	3.13	9.26	22	2871	cellular developmental process
+GO:0021510	6e-05	21.62	0.21	4	51	spinal cord development
+GO:0021530	6e-05	454.11	0.01	2	3	spinal cord oligodendrocyte cell fate specification
+GO:0043583	7e-05	7.71	1	7	223	ear development
+GO:0048522	7e-05	2.37	21.09	38	4707	positive regulation of cellular process
+GO:0021542	7e-05	45.88	0.08	3	18	dentate gyrus development
+GO:0009953	7e-05	12.89	0.43	5	100	dorsal/ventral pattern formation
+GO:0019827	7e-05	9.43	0.7	6	156	stem cell population maintenance
+GO:2000113	7e-05	3.31	5.93	17	1324	negative regulation of cellular macromolecule biosynthetic process
+GO:0048870	8e-05	3.28	5.99	17	1337	cell motility
+GO:0009890	9e-05	3.15	6.63	18	1479	negative regulation of biosynthetic process
+GO:0021575	9e-05	19.3	0.23	4	52	hindbrain morphogenesis
+GO:0021795	1e-04	18.53	0.24	4	54	cerebral cortex cell migration
+GO:1903507	1e-04	3.48	4.92	15	1098	negative regulation of nucleic acid-templated transcription
+GO:0048663	1e-04	37.25	0.1	3	24	neuron fate commitment
+GO:0042472	1e-04	11.45	0.48	5	107	inner ear morphogenesis
+GO:0007610	1e-04	8.59	0.77	6	190	behavior
+GO:0021895	1e-04	36.22	0.1	3	22	cerebral cortex neuron differentiation
+GO:0000122	1e-04	3.95	3.4	12	759	negative regulation of transcription from RNA polymerase II promoter
+GO:0021761	2e-04	16.53	0.27	4	64	limbic system development
+GO:0048714	2e-04	32.77	0.11	3	24	positive regulation of oligodendrocyte differentiation
+GO:0051253	2e-04	3.28	5.19	15	1159	negative regulation of RNA metabolic process
+GO:0021764	2e-04	151.36	0.02	2	5	amygdala development
+GO:0021797	2e-04	151.36	0.02	2	5	forebrain anterior/posterior pattern specification
+GO:0002052	2e-04	29.91	0.12	3	26	positive regulation of neuroblast proliferation
+GO:0048863	2e-04	7.68	0.85	6	190	stem cell differentiation
+GO:0007548	2e-04	6.19	1.23	7	275	sex differentiation
+GO:0002088	2e-04	14.47	0.3	4	68	lens development in camera-type eye
+GO:0007492	3e-04	14.24	0.31	4	69	endoderm development
+GO:0007224	3e-04	9.57	0.57	5	127	smoothened signaling pathway
+GO:0021516	3e-04	117.32	0.03	2	6	dorsal spinal cord development
+GO:0021960	3e-04	113.51	0.03	2	6	anterior commissure morphogenesis
+GO:0048852	3e-04	113.51	0.03	2	6	diencephalon morphogenesis
+GO:0051172	3e-04	2.9	6.7	17	1496	negative regulation of nitrogen compound metabolic process
+GO:0030900	3e-04	13.31	0.33	4	98	forebrain development
+GO:0014003	4e-04	23.72	0.14	3	32	oligodendrocyte development
+GO:0035883	4e-04	23.72	0.14	3	32	enteroendocrine cell differentiation
+GO:0021877	4e-04	92.82	0.03	2	7	forebrain neuron fate commitment
+GO:0009790	4e-04	3.16	4.97	14	1110	embryo development
+GO:0021540	4e-04	90.8	0.03	2	7	corpus callosum morphogenesis
+GO:0021902	4e-04	90.8	0.03	2	7	commitment of neuronal cell to specific neuron type in forebrain
+GO:0060235	4e-04	90.8	0.03	2	7	lens induction in camera-type eye
+GO:0098700	4e-04	90.8	0.03	2	7	neurotransmitter loading into synaptic vesicle
+GO:0003002	4e-04	6.77	0.97	6	243	regionalization
+GO:0007409	4e-04	6.75	0.97	6	234	axonogenesis
